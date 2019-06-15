@@ -1,7 +1,7 @@
 name: WarpUI
 main: WarpUI\Main
 api: [3.0.0, 3.1.0, 4.0.0]
-version: 2.1.3
+version: 2.0.0
 author: ignatiosg (discord:ignatiosg#1030)
 
 commands:
