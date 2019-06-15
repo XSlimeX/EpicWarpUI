@@ -1,0 +1,26 @@
+name: WarpUI
+main: WarpUI\Main
+api: [3.0.0, 3.1.0, 4.0.0]
+version: 2.1.3
+author: ignatiosg (discord:ignatiosg#1030)
+
+commands:
+ warp:
+  description: "Allow teleport player around the world!."
+  
+ addwarp:
+  description: "Add warp."
+  permission: add.warp
+  
+ delwarp:
+  description: "Delete warp."
+  permission: delete.warp
+  
+permissions:
+ add.warp:
+  default: op
+  description: "Add Warp permission."
+  
+ delete.warp:
+  default: op
+  description: "Delete Warp permission."

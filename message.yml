@@ -1,0 +1,10 @@
+---
+Title: §6[§cWarp §blist§6]
+Content: §6[§7choose the place you want to teleport.§6]
+Teleported: §6[§aYou have been teleported!§6]
+Warp-Add: §6[§aSuccessfully the §bwarp has been created!§6]
+Warp-Delete: §6[§aThis §bwarp has been successfully deleted!§6]
+Warp-Exist: §6[§cThis §bwarp already exists!§6]
+Warp-Not-Exist: §6[§cThis §bwarp does not exist!§6]
+No-Warp: §6[§cNo §bWarp set!§6]
+...
